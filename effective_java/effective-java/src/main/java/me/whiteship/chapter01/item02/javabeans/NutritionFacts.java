@@ -9,6 +9,10 @@ public class NutritionFacts {
     private int carbohydrate;
     private boolean healthy;
 
+    public boolean isHealthy() {
+        return healthy;
+    }
+
     public NutritionFacts() {
     }
 

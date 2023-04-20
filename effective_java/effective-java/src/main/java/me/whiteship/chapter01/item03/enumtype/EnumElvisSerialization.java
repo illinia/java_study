@@ -1,8 +1,8 @@
-package me.whiteship.chapter01.item03.field;
+package me.whiteship.chapter01.item03.enumtype;
 
 import java.io.*;
 
-public class ElvisSerialization {
+public class EnumElvisSerialization {
     public static void main(String[] args) {
         try (ObjectOutput out = new ObjectOutputStream(new FileOutputStream("elvis.obj"))) {
             out.writeObject(Elvis.INSTANCE);

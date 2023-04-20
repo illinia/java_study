@@ -15,6 +15,11 @@ public class Concert {
         elvis.sing();
     }
 
-    public boolean isLightsOn() {return lightsOn;}
-    public boolean isMainStateOpen() {return mainStateOpen;}
+    public boolean isLightsOn() {
+        return lightsOn;
+    }
+
+    public boolean isMainStateOpen() {
+        return mainStateOpen;
+    }
 }

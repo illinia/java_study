@@ -5,7 +5,6 @@ public class MockElvis implements IElvis {
     public void leaveTheBuilding() {
 
     }
-
     @Override
     public void sing() {
         System.out.println("mock sing");

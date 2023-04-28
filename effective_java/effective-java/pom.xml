@@ -14,7 +14,7 @@
     <name>effective-java-part1</name>
     <description>effective-java-part1</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <maven.test.skip>true</maven.test.skip>
     </properties>
     <dependencies>

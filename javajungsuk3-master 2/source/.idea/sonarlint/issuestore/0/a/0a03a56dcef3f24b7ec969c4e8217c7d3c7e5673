@@ -1,0 +1,24 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "ï¿½ï¿½ï¿½Ú¹ï¿½" 7 times.(ËÕüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+o
+java:S3655."TCall "topStudent.isPresent()" or "!topStudent.isEmpty()" before accessing the value.(·¶ÀÆùÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(”Šà
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ùÑşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(‹Ê–ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¯ÑÓ€
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¯ÑÓ€
+S	java:S106."9Replace this use of System.out or System.err by a logger.(·¶ÀÆùÿÿÿÿ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(Ü­àf
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(éùüÿÿÿÿ
+o
+java:S1210O"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÜÙÌ©
+[
+java:S1858H"@"format" returns a string, there's no need to call "toString()".(«µ’Îøÿÿÿÿ

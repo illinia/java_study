@@ -1,4 +1,4 @@
-package thread.lecture9;
+package performance.latency1;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
